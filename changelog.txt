@@ -1,0 +1,21 @@
+CHANGELOG
+~~~~~~~~~~~~~~
+
+2014_06_26
+
+	* Changed "bookmarks" to "destinations" in the code and changed the mod
+	name to "Destinations". "Bookmarks" is an oldy-but-goody. In the time
+	since it was originally written several "writing" mods ("books",
+	"memorandum", "wiki") have been	created. I thought that the name
+	"Bookmarks" would make players think it had something to do with the
+	writing-type mods. So I changed the name to "Destinations", hoping that
+	name would better suit the mod's purpose.
+
+	* Code-style clean-up. I edited the format to fit within the 80-column
+	rule. Minetest modders only loosely adhere to the 80-column rule and I
+	wouldn't even bother with it if my code editor, as well as GitHub,
+	were capapble of line-wrap.
+
+	* A tiny bit of code update. "minetest.env:<whatever>" is deprecated so
+	I removed the "env:" part.
+
